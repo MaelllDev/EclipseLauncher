@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EclipseLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+548101d0a113f34b3442ef54003cddeba5ed8721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c32915e24e156128941f44a92248134e69a57570")]
 [assembly: System.Reflection.AssemblyProductAttribute("EclipseLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EclipseLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
